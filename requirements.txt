@@ -1,0 +1,11 @@
+pandas
+geopandas
+shapely
+pyproj
+sqlalchemy
+psycopg[binary]
+streamlit
+plotly
+folium
+streamlit-folium
+pytest
