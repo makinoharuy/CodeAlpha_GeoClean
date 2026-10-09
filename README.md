@@ -1,4 +1,4 @@
-# CodeAplha_GeoClean
+# CodeAlpha_GeoClean
 
 Week 1 
 - Menentukan wilayah dan kategori fasilitas 
